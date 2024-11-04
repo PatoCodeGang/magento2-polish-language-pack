@@ -1,0 +1,25 @@
+{
+    "name": "patocode/magento2-polish-language-pack",
+    "description": "Polish Language Pack for Magento 2",
+    "version": "1.0.0",
+    "type": "magento2-language",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "magento/framework": "*"
+    },
+    "authors": [
+        {
+            "name": "PatoCode",
+            "email": "support@patocode.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
