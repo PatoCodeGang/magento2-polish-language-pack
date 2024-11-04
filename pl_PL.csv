@@ -11,9 +11,8 @@ Allowed Scopes,Dopuszczalne zakresy,module,Magento_AdminGws
 You need more permissions to apply some of the rule updates.,Potrzebujesz więcej uprawnień do stosowania niektórych reguł aktualizacji.,module,Magento_AdminGws
 More permissions are needed to view this item.,Dodatkowe uprawnienia są potrzebne do wyświetlenia tego elementu.,module,Magento_AdminGws
 This entity needs to be assigned to a store view. Verify the entity assignment and try again.,Ten obiekt musi być przypisany do widoku sklepu. Sprawdź przypisanie i spróbuj ponownie.,module,Magento_AdminGws
-"This item needs to be assigned to a store view.,module,Magento_AdminGws
-Please select a website for this product in ""Product in Websites"".","Ten element musi być przypisany do widoku sklepu.,module,Magento_AdminGws
-Wybierz stronę internetową dla tego produktu w ""Produkt w witrynach internetowych"".",module,Magento_AdminGws
+"This item needs to be assigned to a store view.Ten element musi być przypisany do widoku sklepu.,module,Magento_AdminGws
+"Please select a website for this product in ""Product in Websites"".","Wybierz stronę internetową dla tego produktu w ""Produkt w witrynach internetowych"".",module,Magento_AdminGws
 Orders can only be completed in an active store. Verify the store and try again.,Zamówienia mogą być realizowane tylko w aktywnym sklepie. Zweryfikuj sklep i spróbuj ponownie.,module,Magento_AdminGws
 This item needs to be assigned to a store view. Assign item and try again.,Ten element musi być przypisany do widoku sklepu. Przypisz element i spróbuj ponownie.,module,Magento_AdminGws
 More permissions are needed to save this item.,Więcej uprawnień jest potrzebnych do zapisania tego elementu.,module,Magento_AdminGws
