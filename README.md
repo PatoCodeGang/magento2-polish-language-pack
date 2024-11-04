@@ -22,7 +22,7 @@ Unlike other language packs that often leave you with partial translations, our 
 ## Installation
 
 ```bash
-composer require patocode/magento2-polish-language-pack
+composer require patocode/magento2-polish-language-pack:dev-main
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy pl_PL -f
 php bin/magento cache:flush
